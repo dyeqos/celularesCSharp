@@ -1,0 +1,23 @@
+C:\Users\Hola Dilokito\documents\visual studio 2015\Projects\NCapasCelularesUnidad\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Hola Dilokito\documents\visual studio 2015\Projects\NCapasCelularesUnidad\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Hola Dilokito\documents\visual studio 2015\Projects\NCapasCelularesUnidad\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Hola Dilokito\documents\visual studio 2015\Projects\NCapasCelularesUnidad\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Hola Dilokito\documents\visual studio 2015\Projects\NCapasCelularesUnidad\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Hola Dilokito\documents\visual studio 2015\Projects\NCapasCelularesUnidad\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Hola Dilokito\documents\visual studio 2015\Projects\NCapasCelularesUnidad\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaNegocio\obj\Debug\CapaNegocio.pdb

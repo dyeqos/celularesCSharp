@@ -1,0 +1,98 @@
+c:\users\hola dilokito\documents\visual studio 2015\Projects\NCapasCelularesUnidad\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+c:\users\hola dilokito\documents\visual studio 2015\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+c:\users\hola dilokito\documents\visual studio 2015\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+c:\users\hola dilokito\documents\visual studio 2015\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+c:\users\hola dilokito\documents\visual studio 2015\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+c:\users\hola dilokito\documents\visual studio 2015\Projects\NCapasCelularesUnidad\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+c:\users\hola dilokito\documents\visual studio 2015\Projects\NCapasCelularesUnidad\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+c:\users\hola dilokito\documents\visual studio 2015\Projects\NCapasCelularesUnidad\CapaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+c:\users\hola dilokito\documents\visual studio 2015\Projects\NCapasCelularesUnidad\CapaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+c:\users\hola dilokito\documents\visual studio 2015\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+c:\users\hola dilokito\documents\visual studio 2015\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Hola Dilokito\documents\visual studio 2015\Projects\NCapasCelularesUnidad\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Hola Dilokito\documents\visual studio 2015\Projects\NCapasCelularesUnidad\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Hola Dilokito\documents\visual studio 2015\Projects\NCapasCelularesUnidad\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Hola Dilokito\documents\visual studio 2015\Projects\NCapasCelularesUnidad\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Hola Dilokito\documents\visual studio 2015\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.FormPrincipal.resources
+C:\Users\Hola Dilokito\documents\visual studio 2015\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\Hola Dilokito\documents\visual studio 2015\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.MostrarLogin.resources
+C:\Users\Hola Dilokito\documents\visual studio 2015\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.Productos.resources
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.Productos.resources
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.PrincipalResponsive.resources
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.reportes.resources
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\RdlCompile.cache
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\RdlCompile.compiled
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmMostrarProveedores.resources
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmEditarProveed.resources
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmMostrarUsuarios.resources
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmAgregarUsuarios.resources
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmModificarUsuarios.resources
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmMostrarCelulares.resources
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmAgregarCelulares.resources
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmMostrarMarcas.resources
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmModificarCelulares.resources
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmAgregarMarcas.resources
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmModificarMarcas.resources
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmMostrarClientes.resources
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmAgregarClientes.resources
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmModificarClientes.resources
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmAgregaCompras.resources
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmMostrarCompras.resources
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmModificarCompras.resources
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmAgregarVentas.resources
+C:\Users\Dilokito\Documents\Visual Studio 2013\Projects\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmMostrarVentas.resources
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.FormLogin.resources
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmAgregarCelulares.resources
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmModificarCelulares.resources
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmMostrarCelulares.resources
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmAgregarClientes.resources
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmModificarClientes.resources
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmMostrarClientes.resources
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmAgregaCompras.resources
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmModificarCompras.resources
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmMostrarCompras.resources
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmAgregarVentas.resources
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmMostrarVentas.resources
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmAgregarMarcas.resources
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmModificarMarcas.resources
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmMostrarMarcas.resources
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmAgregarUsuarios.resources
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmModificarUsuarios.resources
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmMostrarUsuarios.resources
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmEditarProveed.resources
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmMostrarProveedores.resources
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.PrincipalResponsive.resources
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.Productos.resources
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\xampp\htdocs\C#\NCapasCelularesUnidad\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
